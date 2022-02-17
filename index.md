@@ -40,10 +40,6 @@ __Beyond Hard Decisions: Accounting for Uncertainty in Deep MIR Models​__
 - Extended Abstracts for the Late-Breaking Demo Session
 - 22nd International Society for Music Information Retrieval (ISMIR) conference
 
-## Invited Talks
-`2018`
-__Boston University__, *Composer's Forum*, Department of Composition and Music Theory, MA
-
 ## Experiences
 ### Teaching Experiences
 `2016-2017`
@@ -66,46 +62,40 @@ __Assistant Music Editor__, Canxing Culture Broadcast Co., China
 ## Performances and Productions
 ### Musical Theater
 `2015`
-*Associate Music Programmer*, __Clinton the Musical__
-- New World Stages, NYC NY
+Associate Music Programmer
+- __Clinton the Musical__, New World Stages, NYC NY
 
 `2014`
-*Music Director*, __Godspell__ 
-- Emerson Umbrella, Concord MA
+Music Director
+- __Godspell__, Emerson Umbrella, Concord MA
 
-*Observing Music Director*, __Fiddler on the Roof__
-- Goodspeed Musicals, East Haddam CT
+Observing Music Director
+- __Fiddler on the Roof__, Goodspeed Musicals, East Haddam CT
 
 `2013`
-*Music Director*, __How to Succeed in Business without Really Trying__
-- Tsai Performance Center, Boston MA
+Music Director
+- __How to Succeed in Business without Really Trying__, Tsai Performance Center, Boston MA
 
-*Music Director*, __Chicago, the Musical__
-- Tsai Performance Center, Boston MA
+Music Director
+- __Chicago, the Musical__, Tsai Performance Center, Boston MA
 
-<div style="page-break-after: always;"></div>
 `2012`
-*Music Director*, __The 25th Annual Putnam County Spelling Bee__
-- Jacob Sleeper’s Auditorium, Boston MA
+Music Director
+- __The 25th Annual Putnam County Spelling Bee__, Jacob Sleeper’s Auditorium, Boston MA
 
 `2011`
-*2nd Keyboardist*, __Sweeney Todd__
-- Tsai Performance Center, Boston MA
-
-<!-- __Music Director__, [Title of Show] 
-- Conference Auditorium at BU, Boston
-
-__Assistant Music Director/Keyboardist__, The Last Five Years 
-- Student Theatre at BU, Boston -->
+Keyboardist
+- __Sweeney Todd__, Tsai Performance Center, Boston MA
+<div style="page-break-after: always;"></div>
 
 ### Music Festivals
 `2014`
-*Pianist*, __Amalfi Coast Music Festival__
-- Amalfi, Italy
+Pianist
+- __Amalfi Coast Music Festival__, Amalfi, Italy
 
 `2013`
-*Pianist*, __Summit Music Festival__
-- Purchase, New York
+Pianist
+- __Summit Music Festival__, Purchase, New York
 
 ## Services
 ### Professional Services
@@ -118,11 +108,15 @@ __Reviewer__, Transactions of the International Society for Music Information Re
 ### University Services
 `2021-present`
 __BeTogether Ambassador__, New York University
-- Promoting global inclusion, diversity, belonging, equity, and access.
+- Promoting global inclusion, diversity, belonging, equity, and access
 
 `2018-2020`
 __MARL Talk Coordinator__, New York University
-- Coordinated invitation for guest to present their research to the Music and Audio Research Lab (MARL).
+- Coordinated invitation for guest to present their research to the Music and Audio Research Lab (MARL)
+
+## Invited Talks
+`2018`
+__Boston University__, *Composer's Forum*, Department of Composition and Music Theory, MA
 
 ## Related Coursework
 ### Music Theory
@@ -151,3 +145,5 @@ __MARL Talk Coordinator__, New York University
 - Native: Chinese (Mandarin), Shanghai Dialect
 - Quasi-native: English
 - Basic: French
+
+Last updated: Feb 2022
