@@ -148,7 +148,7 @@ h2 {
 h3 {
 	font-size: 1em;
 	line-height: 2em;
-	color: #ccc;
+	color: rgb(92, 92, 92);
 	position: relative;
 	top: 1.6em;
 	text-align: right;
@@ -168,7 +168,7 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #ccc;
+	color: rgb(92, 92, 92);
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 90%;
 }
@@ -178,8 +178,8 @@ a:hover {
 }
 
 em {
-	font-style: normal;
-	color: #2d4e5e
+	font-style: italic;
+	/* color: #2d4e5e */
 }
 
 strong {
