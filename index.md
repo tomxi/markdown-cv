@@ -99,12 +99,18 @@ __Pianist__, Summit Music Festival
 - Purchase, New York
 
 ## Professional service
-__Reviewer__
+`2021`
+__Reviewer__, International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+
+`2019`
+__Reviewer__, Transactions of the International Society for Music Information Retrieval (TISMIR)
 
 ## Related Coursework
+### Music Theory
 - Analyzing Tonal Forms
 - Schenkerian Analysis
 - Compositional Process in Symphony
+### Music Technology
 - Music Information Retrieval
 - Art of Sound Reinforcement
 - Advanced Acoustics
@@ -114,8 +120,10 @@ __Reviewer__
 - C Programming for Music Tech
 - Digital Signal Theory
 - Max Programming
-- Probability and Stats for DS
-- Foundations of Machine Learning - Deep Learning
+### Data Science
+- Probability and Statistics for Data Science
+- Foundations of Machine Learning 
+- Deep Learning
 - Probabilistic Time Series
 
 ## Languages
