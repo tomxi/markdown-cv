@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Qingyang Xi's CV
+title: Tom Xi's CV
 ---
-# Qingyang Xi
+# Qingyang (Tom) Xi
 Musician, Technologist
 
 <div id="webaddress">
@@ -23,10 +23,11 @@ __New York University, NY__
 - M.M. in *Music Technology*
 
 `2010-2014`
-__Boston University, MA.__
+__Boston University, MA__
 - B.M. in *Piano Performance* and *Theory and Composition* with *Magna Cum Laude*
 
 ## Publications
+### Conference Proceedings
 `2021`
 __Beyond Hard Decisions: Accounting for Uncertainty in Deep MIR Models​__
 - _Qingyang Xi_, Brian McFee
@@ -60,7 +61,7 @@ __Assistant Music Editor__, Canxing Culture Broadcast Co., China
 
 ### Production Credits
 `2015`
-__Assoc. Music Programmer__, Clinton the Musical 
+__Associate Music Programmer__, Clinton the Musical 
 - New World Stages, NY
 
 `2014`
@@ -69,12 +70,14 @@ __Music Director__, Godspell
 
 __Observing Music Director__ Fiddler on the Roof 
 - Goodspeed Musicals, CT
+
 __Assistant Synth Programmer__ Holiday Inn 
 - Goodspeed Musicals, CT
 
 `2013`
 __Music Director__, How to Succeed in Business without Really Trying
 - Tsai Performance Center, Boston
+
 __Music Director__, Chicago, the Musical 
 - Tsai Performance Center, Boston
 
@@ -85,25 +88,38 @@ __Music Director__, The 25th Annual Putnam County Spelling Bee
 `2011`
 __2nd Keyboardist__, Sweeney Todd 
 - Tsai Performance Center, Boston
+
 __Music Director__ [Title of Show] 
 - Conference Auditorium at BU, Boston
-__Asst. MD/Keyboard__ The Last Five Years 
+
+__Assistant Music Director/Keyboardist__ The Last Five Years 
 - Student Theatre at BU, Boston
 
 ### Festivals
 `2014`
 __Pianist__, Amalfi Coast Music Festival
 - Amalfi, Italy
+
 `2013`
 __Pianist__, Summit Music Festival
 - Purchase, New York
 
-## Professional service
+## Services
+### Professional Services
 `2021`
 __Reviewer__, International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
 
 `2019`
 __Reviewer__, Transactions of the International Society for Music Information Retrieval (TISMIR)
+
+### University Services
+`2021-present`
+__BeTogether Ambassador__, New York University
+- Promoting global inclusion, diversity, belonging, equity, and access.
+
+`2018-2020`
+__MARL Talk Coordinator__, New York University
+- Coordinated invitation for guest to present their research to the Music and Audio Research Lab (MARL).
 
 ## Related Coursework
 ### Music Theory
@@ -127,7 +143,7 @@ __Reviewer__, Transactions of the International Society for Music Information Re
 - Probabilistic Time Series
 
 ## Languages
-- Native: Chinese
+- Native: Mandarin, Shanghai Dialect
 - Quasi-native: English
 - Basic: French
 
