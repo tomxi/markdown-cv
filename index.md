@@ -76,9 +76,6 @@ __Assistant Music Editor__, Canxing Culture Broadcast Co., China
 *Observing Music Director*, __Fiddler on the Roof__
 - Goodspeed Musicals, East Haddam CT
 
-*Assistant Synth Programmer*, __Holiday Inn__
-- Goodspeed Musicals, East Haddam CT
-
 `2013`
 *Music Director*, __How to Succeed in Business without Really Trying__
 - Tsai Performance Center, Boston MA
