@@ -62,32 +62,32 @@ __Assistant Music Editor__, Canxing Culture Broadcast Co., China
 ## Performances and Productions
 ### Musical Theater
 `2015`
-__Associate Music Programmer__, Clinton the Musical 
+*Associate Music Programmer*, __Clinton the Musical__
 - New World Stages, NYC NY
 
 `2014`
-__Music Director__, Godspell 
+*Music Director*, __Godspell__ 
 - Emerson Umbrella, Concord MA
 
-__Observing Music Director__, Fiddler on the Roof 
+*Observing Music Director*, __Fiddler on the Roof__
 - Goodspeed Musicals, East Haddam CT
 
-__Assistant Synth Programmer__ Holiday Inn 
+*Assistant Synth Programmer*, __Holiday Inn__
 - Goodspeed Musicals, East Haddam CT
 
 `2013`
-__Music Director__, How to Succeed in Business without Really Trying
+*Music Director*, __How to Succeed in Business without Really Trying__
 - Tsai Performance Center, Boston MA
 
-__Music Director__, Chicago, the Musical 
+*Music Director*, __Chicago, the Musical__
 - Tsai Performance Center, Boston MA
 
 `2012`
-__Music Director__, The 25th Annual Putnam County Spelling Bee
+*Music Director*, __The 25th Annual Putnam County Spelling Bee__
 - Jacob Sleeper’s Auditorium, Boston MA
 
 `2011`
-__2nd Keyboardist__, Sweeney Todd 
+*2nd Keyboardist*, __Sweeney Todd__
 - Tsai Performance Center, Boston MA
 
 <!-- __Music Director__, [Title of Show] 
@@ -98,11 +98,11 @@ __Assistant Music Director/Keyboardist__, The Last Five Years
 
 ### Music Festivals
 `2014`
-__Pianist__, Amalfi Coast Music Festival
+*Pianist*, __Amalfi Coast Music Festival__
 - Amalfi, Italy
 
 `2013`
-__Pianist__, Summit Music Festival
+*Pianist*, __Summit Music Festival__
 - Purchase, New York
 
 ## Services
