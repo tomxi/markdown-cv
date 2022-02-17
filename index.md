@@ -26,22 +26,22 @@ __New York University, NY__
 __Boston University, MA__
 - B.M. in *Piano Performance* and *Theory and Composition* with *Magna Cum Laude*
 
-## Publications
-### Conference Proceedings
+## Publication
+### Conference Proceeding
 `2018`
 ​__Guitarset: A Dataset for Guitar Transcription__
 - _Qingyang Xi_, Rachel M. Bittner, Johan Pauwels, Xuzhou Ye, and Juan Pablo Bello
 - 19th International Society for Music Information Retrieval (ISMIR) conference
 
-### Extended Abstracts
+### Extended Abstract
 `2021`
 __Beyond Hard Decisions: Accounting for Uncertainty in Deep MIR Models​__
 - _Qingyang Xi_, Brian McFee
 - Extended Abstracts for the Late-Breaking Demo Session
 - 22nd International Society for Music Information Retrieval (ISMIR) conference
 
-## Experiences
-### Teaching Experiences
+## Experience
+### Teaching Experience
 `2016-2017`
 __Adjunct Lecturer__, New York University, NY
 - Developed new material and taught digital and analogue electronics for audio
@@ -50,7 +50,7 @@ __Adjunct Lecturer__, New York University, NY
 __Teaching Assistant__, New York University, NY
 - Helped teach digital and analogue electronics for audio
 
-### Industry Experiences
+### Industry Experience
 `2014`
 __Software Developer__, SynthWorks, MA
 - Developed plugins for Logic Pro Scripter
@@ -59,7 +59,7 @@ __Software Developer__, SynthWorks, MA
 __Assistant Music Editor__, Canxing Culture Broadcast Co., China
 - Worked on Season 2 of "The Voice of China"
 
-## Performances and Productions
+## Performance and Production
 ### Musical Theater
 `2015`
 Associate Music Programmer
@@ -86,9 +86,9 @@ Music Director
 `2011`
 Keyboardist
 - __Sweeney Todd__, Tsai Performance Center, Boston MA
-<div style="page-break-after: always;"></div>
+<!-- <div style="page-break-after: always;"></div> -->
 
-### Music Festivals
+### Music Festival
 `2014`
 Pianist
 - __Amalfi Coast Music Festival__, Amalfi, Italy
@@ -97,15 +97,15 @@ Pianist
 Pianist
 - __Summit Music Festival__, Purchase, New York
 
-## Services
-### Professional Services
+## Service
+### Professional Service
 `2021`
 __Reviewer__, International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
 
 `2019`
 __Reviewer__, Transactions of the International Society for Music Information Retrieval (TISMIR)
 
-### University Services
+### University Service
 `2021-present`
 __BeTogether Ambassador__, New York University
 - Promoting global inclusion, diversity, belonging, equity, and access
@@ -114,7 +114,7 @@ __BeTogether Ambassador__, New York University
 __MARL Talk Coordinator__, New York University
 - Coordinated invitation for guest to present their research to the Music and Audio Research Lab (MARL)
 
-## Invited Talks
+## Invited Talk
 `2018`
 __Boston University__, *Composer's Forum*, Department of Composition and Music Theory, MA
 
@@ -145,5 +145,3 @@ __Boston University__, *Composer's Forum*, Department of Composition and Music T
 - Native: Chinese (Mandarin), Shanghai Dialect
 - Quasi-native: English
 - Basic: French
-
-Last updated: Feb 2022
