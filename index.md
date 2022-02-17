@@ -1,16 +1,16 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Qingyang Xi's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Qingyang Xi
+Musician, Technologist
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="tom.xi@nyu.edu">tom.xi@nyu.edu</a>
+| <a href="https://github.com/tomxi">GitHub</a>
 </div>
 
-
+<!-- 
 ## Currently
 
 Standing on the shoulders of giants
@@ -23,15 +23,15 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 ### Research interests
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
+ -->
+ 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2010-2014`
+__Boston University, MA.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2015-2018`
+__New York University, NY__
 
 - Sizar
 
