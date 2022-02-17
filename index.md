@@ -78,6 +78,7 @@ __Assistant Music Editor__, Canxing Culture Broadcast Co., China
 
 *Assistant Synth Programmer*, __Holiday Inn__
 - Goodspeed Musicals, East Haddam CT
+<br/>
 
 `2013`
 *Music Director*, __How to Succeed in Business without Really Trying__
