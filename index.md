@@ -42,7 +42,7 @@ __Beyond Hard Decisions: Accounting for Uncertainty in Deep MIR Models​__
 
 ## Invited Talks
 `2018`
-__Boston University__, *Composer's Forum*, Department of Composition and Music Theory, Boston, MA.
+__Boston University__, *Composer's Forum*, Department of Composition and Music Theory, MA
 
 ## Experiences
 ### Teaching Experiences
@@ -78,7 +78,6 @@ __Assistant Music Editor__, Canxing Culture Broadcast Co., China
 
 *Assistant Synth Programmer*, __Holiday Inn__
 - Goodspeed Musicals, East Haddam CT
-<br/>
 
 `2013`
 *Music Director*, __How to Succeed in Business without Really Trying__
