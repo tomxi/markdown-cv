@@ -6,7 +6,7 @@ title: Qingyang Xi's CV
 Musician, Technologist
 
 <div id="webaddress">
-    <a href="tom.xi@nyu.edu">tom.xi@nyu.edu</a>
+    <a href="tom.xi@nyu.edu">tom.xi@nyu.edu</a><br/>
     <a href="https://tomxi.weebly.com/">website</a>
     <a href="https://github.com/tomxi/">GitHub</a>
     <a href="https://scholar.google.com/citations?hl=en&user=uWxe6-AAAAAJ">Google Scholar</a>
