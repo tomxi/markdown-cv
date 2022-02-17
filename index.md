@@ -16,7 +16,7 @@ Musician, Technologist
 ## Education
 `2018-2024`
 __New York University, NY__
-- Ph.D. Candidate in *Music Technology*
+- Ph.D. in *Music Technology*, __Expected completion 2024__
 
 `2015-2018`
 __New York University, NY__
