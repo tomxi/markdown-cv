@@ -28,17 +28,21 @@ __Boston University, MA__
 
 ## Publications
 ### Conference Proceedings
+`2018`
+​__Guitarset: A Dataset for Guitar Transcription__
+- _Qingyang Xi_, Rachel M. Bittner, Johan Pauwels, Xuzhou Ye, and Juan Pablo Bello
+- 19th International Society for Music Information Retrieval (ISMIR) conference
+
+### Extended Abstracts
 `2021`
 __Beyond Hard Decisions: Accounting for Uncertainty in Deep MIR Models​__
 - _Qingyang Xi_, Brian McFee
 - Extended Abstracts for the Late-Breaking Demo Session
 - 22nd International Society for Music Information Retrieval (ISMIR) conference
 
+## Invited Talks
 `2018`
-​__Guitarset: A Dataset for Guitar Transcription__
-- _Qingyang Xi_, Rachel M. Bittner, Johan Pauwels, Xuzhou Ye, and Juan Pablo Bello
-- 19th International Society for Music Information Retrieval (ISMIR) conference
-
+__Boston University__, *Composer's Forum*, Department of Composition and Music Theory, Boston, MA.
 
 ## Experiences
 ### Teaching Experiences
