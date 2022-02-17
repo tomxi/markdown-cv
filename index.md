@@ -83,6 +83,7 @@ __Assistant Music Editor__, Canxing Culture Broadcast Co., China
 *Music Director*, __Chicago, the Musical__
 - Tsai Performance Center, Boston MA
 
+<div style="page-break-after: always;"></div>
 `2012`
 *Music Director*, __The 25th Annual Putnam County Spelling Bee__
 - Jacob Sleeper’s Auditorium, Boston MA
