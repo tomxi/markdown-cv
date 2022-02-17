@@ -12,9 +12,9 @@ Musician, Technologist
     <a href="https://scholar.google.com/citations?hl=en&user=uWxe6-AAAAAJ">Google Scholar</a> |
     <a href="https://soundcloud.com/tom-xi">Soundcloud</a>
 </div>
- 
+
 ## Education
-`2018-present`
+`2018-2024`
 __New York University, NY__
 - Ph.D. Candidate in *Music Technology*
 
@@ -59,43 +59,44 @@ __Software Developer__, SynthWorks, MA
 __Assistant Music Editor__, Canxing Culture Broadcast Co., China
 - Worked on Season 2 of "The Voice of China"
 
-### Production Credits
+## Performances and Productions
+### Musical Theater
 `2015`
 __Associate Music Programmer__, Clinton the Musical 
-- New World Stages, NY
+- New World Stages, NYC NY
 
 `2014`
 __Music Director__, Godspell 
 - Emerson Umbrella, Concord MA
 
-__Observing Music Director__ Fiddler on the Roof 
-- Goodspeed Musicals, CT
+__Observing Music Director__, Fiddler on the Roof 
+- Goodspeed Musicals, East Haddam CT
 
 __Assistant Synth Programmer__ Holiday Inn 
-- Goodspeed Musicals, CT
+- Goodspeed Musicals, East Haddam CT
 
 `2013`
 __Music Director__, How to Succeed in Business without Really Trying
-- Tsai Performance Center, Boston
+- Tsai Performance Center, Boston MA
 
 __Music Director__, Chicago, the Musical 
-- Tsai Performance Center, Boston
+- Tsai Performance Center, Boston MA
 
 `2012`
 __Music Director__, The 25th Annual Putnam County Spelling Bee
-- Jacob Sleeper’s Auditorium, Boston 
+- Jacob Sleeper’s Auditorium, Boston MA
 
 `2011`
 __2nd Keyboardist__, Sweeney Todd 
-- Tsai Performance Center, Boston
+- Tsai Performance Center, Boston MA
 
-__Music Director__ [Title of Show] 
+<!-- __Music Director__, [Title of Show] 
 - Conference Auditorium at BU, Boston
 
-__Assistant Music Director/Keyboardist__ The Last Five Years 
-- Student Theatre at BU, Boston
+__Assistant Music Director/Keyboardist__, The Last Five Years 
+- Student Theatre at BU, Boston -->
 
-### Festivals
+### Music Festivals
 `2014`
 __Pianist__, Amalfi Coast Music Festival
 - Amalfi, Italy
@@ -126,6 +127,7 @@ __MARL Talk Coordinator__, New York University
 - Analyzing Tonal Forms
 - Schenkerian Analysis
 - Compositional Process in Symphony
+
 ### Music Technology
 - Music Information Retrieval
 - Art of Sound Reinforcement
@@ -136,6 +138,7 @@ __MARL Talk Coordinator__, New York University
 - C Programming for Music Tech
 - Digital Signal Theory
 - Max Programming
+
 ### Data Science
 - Probability and Statistics for Data Science
 - Foundations of Machine Learning 
@@ -143,8 +146,6 @@ __MARL Talk Coordinator__, New York University
 - Probabilistic Time Series
 
 ## Languages
-- Native: Mandarin, Shanghai Dialect
+- Native: Chinese (Mandarin), Shanghai Dialect
 - Quasi-native: English
 - Basic: French
-
-
