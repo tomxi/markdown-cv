@@ -7,9 +7,9 @@ Musician, Technologist
 
 <div id="webaddress">
     <a href="tom.xi@nyu.edu">tom.xi@nyu.edu</a><br/>
-    <a href="https://tomxi.weebly.com/">website</a>
-    <a href="https://github.com/tomxi/">GitHub</a>
-    <a href="https://scholar.google.com/citations?hl=en&user=uWxe6-AAAAAJ">Google Scholar</a>
+    <a href="https://tomxi.weebly.com/">Website</a> |
+    <a href="https://github.com/tomxi/">GitHub</a> |
+    <a href="https://scholar.google.com/citations?hl=en&user=uWxe6-AAAAAJ">Google Scholar</a> |
     <a href="https://soundcloud.com/tom-xi">Soundcloud</a>
 </div>
  
@@ -28,15 +28,15 @@ __Boston University, MA.__
 
 ## Publications
 `2021`
-Beyond Hard Decisions: Accounting for Uncertainty in Deep MIR Models​
-Qingyang Xi, Brian McFee
-Extended Abstracts for the Late-Breaking Demo Session
-22nd International Society for Music Information Retrieval (ISMIR) conference
+__Beyond Hard Decisions: Accounting for Uncertainty in Deep MIR Models​__
+- _Qingyang Xi_, Brian McFee
+- Extended Abstracts for the Late-Breaking Demo Session
+- 22nd International Society for Music Information Retrieval (ISMIR) conference
 
 `2018`
-​Guitarset: A Dataset for Guitar Transcription
-Qingyang Xi, Rachel M. Bittner, Johan Pauwels, Xuzhou Ye, and Juan Pablo Bello
-19th International Society for Music Information Retrieval (ISMIR) conference
+​__Guitarset: A Dataset for Guitar Transcription__
+- _Qingyang Xi_, Rachel M. Bittner, Johan Pauwels, Xuzhou Ye, and Juan Pablo Bello
+- 19th International Society for Music Information Retrieval (ISMIR) conference
 
 
 ## Experiences
@@ -61,42 +61,42 @@ __Assistant Music Editor__, Canxing Culture Broadcast Co., China
 ### Production Credits
 `2015`
 __Assoc. Music Programmer__, Clinton the Musical 
-New World Stages, NY
+- New World Stages, NY
 
 `2014`
 __Music Director__, Godspell 
-Emerson Umbrella, Concord MA
+- Emerson Umbrella, Concord MA
 
 __Observing Music Director__ Fiddler on the Roof 
-Goodspeed Musicals, CT
+- Goodspeed Musicals, CT
 __Assistant Synth Programmer__ Holiday Inn 
-Goodspeed Musicals, CT
+- Goodspeed Musicals, CT
 
 `2013`
 __Music Director__, How to Succeed in Business without Really Trying
-Tsai Performance Center, Boston
+- Tsai Performance Center, Boston
 __Music Director__, Chicago, the Musical 
-Tsai Performance Center, Boston
+- Tsai Performance Center, Boston
 
 `2012`
 __Music Director__, The 25th Annual Putnam County Spelling Bee
-Jacob Sleeper’s Auditorium, Boston 
+- Jacob Sleeper’s Auditorium, Boston 
 
 `2011`
 __2nd Keyboardist__, Sweeney Todd 
-Tsai Performance Center, Boston
+- Tsai Performance Center, Boston
 __Music Director__ [Title of Show] 
-Conference Auditorium at BU, Boston
+- Conference Auditorium at BU, Boston
 __Asst. MD/Keyboard__ The Last Five Years 
-Student Theatre at BU, Boston
+- Student Theatre at BU, Boston
 
 ### Festivals
 `2014`
 __Pianist__, Amalfi Coast Music Festival
-Amalfi, Italy
+- Amalfi, Italy
 `2013`
 __Pianist__, Summit Music Festival
-Purchase, New York
+- Purchase, New York
 
 ## Professional service
 __Reviewer__
@@ -116,8 +116,11 @@ __Reviewer__
 - Max Programming
 - Probability and Stats for DS
 - Foundations of Machine Learning - Deep Learning
-- Probablistic Time Series
+- Probabilistic Time Series
 
-
+## Languages
+- Native: Chinese
+- Quasi-native: English
+- Basic: French
 
 
