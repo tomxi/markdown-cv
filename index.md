@@ -14,9 +14,9 @@ Musician, Technologist
 </div>
 
 ## Education
-`2018-2024`
+`2018-present`
 __New York University__, New York, NY
-- Ph.D. in *Music Technology*, __Expected completion 2024__
+- Ph.D. in *Music Technology*, expected completion 2024
 
 `2015-2018`
 __New York University__, New York, NY
