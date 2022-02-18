@@ -15,21 +15,21 @@ Musician, Technologist
 
 ## Education
 `2018-2024`
-__New York University, NY__
+__New York University__, New York, NY
 - Ph.D. in *Music Technology*, __Expected completion 2024__
 
 `2015-2018`
-__New York University, NY__
+__New York University__, New York, NY
 - M.M. in *Music Technology*
 
 `2010-2014`
-__Boston University, MA__
+__Boston University__, Boston, MA
 - B.M. in *Piano Performance* and *Theory and Composition* with *Magna Cum Laude*
 
 ## Publication
 ### Conference Proceeding
 `2018`
-​__Guitarset: A Dataset for Guitar Transcription__
+__Guitarset: A Dataset for Guitar Transcription__
 - _Qingyang Xi_, Rachel M. Bittner, Johan Pauwels, Xuzhou Ye, and Juan Pablo Bello
 - 19th International Society for Music Information Retrieval (ISMIR) conference
 
@@ -43,49 +43,49 @@ __Beyond Hard Decisions: Accounting for Uncertainty in Deep MIR Models​__
 ## Experience
 ### Teaching Experience
 `2016-2017`
-__Adjunct Lecturer__, New York University, NY
+__Adjunct Lecturer__, New York University, New York, NY
 - Developed new material and taught digital and analogue electronics for audio
 
 `2015-2016`
-__Teaching Assistant__, New York University, NY
+__Teaching Assistant__, New York University, New York, NY
 - Helped teach digital and analogue electronics for audio
 
 ### Industry Experience
 `2014`
-__Software Developer__, SynthWorks, MA
+__Software Developer__, SynthWorks, Brookline, MA
 - Developed plugins for Logic Pro Scripter
 
 `2013`
-__Assistant Music Editor__, Canxing Culture Broadcast Co., China
+__Assistant Music Editor__, Canxing Culture Broadcast Co., Shanghai, China
 - Worked on Season 2 of "The Voice of China"
 
 ## Performance and Production
 ### Musical Theater
 `2015`
 Associate Music Programmer
-- __Clinton the Musical__, New World Stages, NYC NY
+- __Clinton the Musical__, New World Stages, New York, NY
 
 `2014`
 Music Director
-- __Godspell__, Emerson Umbrella, Concord MA
+- __Godspell__, Emerson Umbrella, Concord, MA
 
 Observing Music Director
-- __Fiddler on the Roof__, Goodspeed Musicals, East Haddam CT
+- __Fiddler on the Roof__, Goodspeed Musicals, East Haddam, CT
 
 `2013`
 Music Director
-- __How to Succeed in Business without Really Trying__, Tsai Performance Center, Boston MA
+- __How to Succeed in Business without Really Trying__, Tsai Performance Center, Boston, MA
 
 Music Director
-- __Chicago, the Musical__, Tsai Performance Center, Boston MA
+- __Chicago, the Musical__, Tsai Performance Center, Boston, MA
 
 `2012`
 Music Director
-- __The 25th Annual Putnam County Spelling Bee__, Jacob Sleeper’s Auditorium, Boston MA
+- __The 25th Annual Putnam County Spelling Bee__, Jacob Sleeper’s Auditorium, Boston, MA
 
 `2011`
 Keyboardist
-- __Sweeney Todd__, Tsai Performance Center, Boston MA
+- __Sweeney Todd__, Tsai Performance Center, Boston, MA
 <!-- <div style="page-break-after: always;"></div> -->
 
 ### Music Festival
@@ -116,7 +116,7 @@ __MARL Talk Coordinator__, New York University
 
 ## Invited Talk
 `2018`
-__Boston University__, *Composer's Forum*, Department of Composition and Music Theory, MA
+__Boston University__, *Composer's Forum*, Department of Composition and Music Theory, Boston, MA
 
 ## Related Coursework
 ### Music Theory
