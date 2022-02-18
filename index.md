@@ -6,10 +6,10 @@ title: Tom Xi's CV
 Musician, Technologist
 
 <div id="webaddress">
-    <a href="tom.xi@nyu.edu">tom.xi@nyu.edu</a><br/>
+    <a href="mailto: tom.xi@nyu.edu">tom.xi@nyu.edu</a><br/>
     <a href="https://tomxi.weebly.com/">Website</a> |
     <a href="https://github.com/tomxi/">GitHub</a> |
-    <a href="https://scholar.google.com/citations?hl=en&user=uWxe6-AAAAAJ">Google Scholar</a> |
+    <a href="https://scholar.google.com/citations?user=uWxe6-AAAAAJ">Google Scholar</a> |
     <a href="https://soundcloud.com/tom-xi">Soundcloud</a>
 </div>
 
@@ -99,14 +99,14 @@ Pianist
 
 ## Service
 ### Professional Service
-`2021`
+`2022`
 __Reviewer__, International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
 
 `2019`
 __Reviewer__, Transactions of the International Society for Music Information Retrieval (TISMIR)
 
 ### University Service
-`2021-present`
+`2022-present`
 __BeTogether Ambassador__, New York University
 - Promoting global inclusion, diversity, belonging, equity, and access
 
@@ -126,13 +126,14 @@ __Boston University__, *Composer's Forum*, Department of Composition and Music T
 
 ### Music Technology
 - Music Information Retrieval
+- Digital Signal Theory
 - Art of Sound Reinforcement
-- Advanced Acoustics
 - Electronics by Computer Simulation
 - Perceptual Audio Coding
 - Audio for the Web
+- Immersive Audio
+- Advanced Acoustics
 - C Programming for Music Tech
-- Digital Signal Theory
 - Max Programming
 
 ### Data Science
@@ -141,7 +142,7 @@ __Boston University__, *Composer's Forum*, Department of Composition and Music T
 - Deep Learning
 - Probabilistic Time Series
 
-## Languages
-- Native: Chinese (Mandarin), Shanghai Dialect
+## Language
+- Native: Chinese (Mandarin)
 - Quasi-native: English
 - Basic: French
