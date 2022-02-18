@@ -51,9 +51,9 @@ __Teaching Assistant__, New York University, New York, NY
 - Helped teach digital and analogue electronics for audio
 
 ### Industry Experience
-`2014`
+`2014-2015`
 __Software Developer__, SynthWorks, Brookline, MA
-- Developed plugins for Logic Pro Scripter
+- Developed plugins for Logic Pro Scripter and other solutions for live music performance settings
 
 `2013`
 __Assistant Music Editor__, Canxing Culture Broadcast Co., Shanghai, China
@@ -77,7 +77,7 @@ Music Director
 - __How to Succeed in Business without Really Trying__, Tsai Performance Center, Boston, MA
 
 Music Director
-- __Chicago, the Musical__, Tsai Performance Center, Boston, MA
+- __Chicago__, Tsai Performance Center, Boston, MA
 
 `2012`
 Music Director
@@ -112,7 +112,7 @@ __BeTogether Ambassador__, New York University
 
 `2018-2020`
 __MARL Talk Coordinator__, New York University
-- Coordinated invitation for guest to present their research to the Music and Audio Research Lab (MARL)
+- Coordinated invitation for guests to present their research to the Music and Audio Research Lab (MARL)
 
 ## Invited Talk
 `2018`
