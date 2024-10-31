@@ -16,7 +16,7 @@ Musician, Technologist
 ## Education
 `2018-present`
 __New York University__, New York, NY
-- Ph.D. in *Music Technology*, expected completion 2024
+- Ph.D. in *Music Technology*
 
 `2015-2018`
 __New York University__, New York, NY
@@ -34,6 +34,13 @@ __Guitarset: A Dataset for Guitar Transcription__
 - 19th International Society for Music Information Retrieval (ISMIR) conference
 
 ### Extended Abstract
+`2024`
+__Zero-Shot Structure Labeling with Audio and Language Model Embeddings__
+- Morgan Buisson, Christopher Ick, _Qingyang Xi_, Brian McFee
+- Extended Abstracts for the Late-Breaking Demo Session
+- 25th International Society for Music Information Retrieval (ISMIR) conference
+
+
 `2021`
 __Beyond Hard Decisions: Accounting for Uncertainty in Deep MIR Models​__
 - _Qingyang Xi_, Brian McFee
