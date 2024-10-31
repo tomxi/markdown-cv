@@ -40,7 +40,6 @@ __Zero-Shot Structure Labeling with Audio and Language Model Embeddings__
 - Extended Abstracts for the Late-Breaking Demo Session
 - 25th International Society for Music Information Retrieval (ISMIR) conference
 
-
 `2021`
 __Beyond Hard Decisions: Accounting for Uncertainty in Deep MIR Models​__
 - _Qingyang Xi_, Brian McFee
@@ -65,6 +64,11 @@ __Software Developer__, SynthWorks, Brookline, MA
 `2013`
 __Assistant Music Editor__, Canxing Culture Broadcast Co., Shanghai, China
 - Worked on Season 2 of "The Voice of China"
+
+\
+&nbsp;
+\
+&nbsp;
 
 ## Performance and Production
 ### Musical Theater
