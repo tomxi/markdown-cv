@@ -125,31 +125,3 @@ __MARL Talk Coordinator__, New York University
 `2018`
 __Boston University__, *Composer's Forum*, Department of Composition and Music Theory, Boston, MA
 
-## Related Coursework
-### Music Theory
-- Analyzing Tonal Forms
-- Schenkerian Analysis
-- Compositional Process in Symphony
-
-### Music Technology
-- Music Information Retrieval
-- Digital Signal Theory
-- Art of Sound Reinforcement
-- Electronics by Computer Simulation
-- Perceptual Audio Coding
-- Audio for the Web
-- Immersive Audio
-- Advanced Acoustics
-- C Programming for Music Tech
-- Max Programming
-
-### Data Science
-- Probability and Statistics for Data Science
-- Foundations of Machine Learning 
-- Deep Learning
-- Probabilistic Time Series
-
-## Language
-- Native: Chinese (Mandarin)
-- Quasi-native: English
-- Basic: French
