@@ -59,7 +59,7 @@ __Teaching Assistant__, New York University, New York, NY
 ### Industry Experience
 `2014-2015`
 __Software Developer__, SynthWorks, Brookline, MA
-- Developed plugins for Logic Pro Scripter and other solutions for live music performance settings
+- Developed Logic plugins and other solutions for live music performances.
 
 `2013`
 __Assistant Music Editor__, Canxing Culture Broadcast Co., Shanghai, China
