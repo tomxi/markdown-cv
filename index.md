@@ -123,7 +123,7 @@ __BeTogether Ambassador__, New York University
 
 `2018-2020`
 __MARL Talk Coordinator__, New York University
-- Coordinated invitation for guests to present their research to the Music and Audio Research Lab (MARL)
+- Coordinated invitation for guest speakers.
 
 ## Invited Talk
 `2018`
