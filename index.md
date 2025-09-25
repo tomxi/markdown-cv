@@ -13,8 +13,11 @@ Musician, Technologist
     <a href="https://soundcloud.com/tom-xi">Soundcloud</a>
 </div>
 
+## Research Interests
+I'm currently working on more explainable, automatic methods for audio based music structure analysis with Dr. Brian McFee, with broader interests in music informatics, music theory, and mathematics.
+
 ## Education
-`2018-present`
+`2018-2026 (expected)`
 __New York University__, New York, NY
 - Ph.D. in *Music Technology*
 
@@ -26,14 +29,13 @@ __New York University__, New York, NY
 __Boston University__, Boston, MA
 - B.M. in *Piano Performance* and *Theory and Composition* with *Magna Cum Laude*
 
-## Publication
-### Conference Proceeding
-`2018`
-__Guitarset: A Dataset for Guitar Transcription__
-- _Qingyang Xi_, Rachel M. Bittner, Johan Pauwels, Xuzhou Ye, and Juan Pablo Bello
-- 19th International Society for Music Information Retrieval (ISMIR) conference
+## Publications
 
-### Extended Abstract
+`2025`
+__Lose the Frames: Event-based Metrics for Efficient Music Structure Analysis Evaluations__
+- _Qingyang Xi_, Brian McFee
+- 26th International Society for Music Information Retrieval (ISMIR) conference
+
 `2024`
 __Zero-Shot Structure Labeling with Audio and Language Model Embeddings__
 - Morgan Buisson, Christopher Ick, _Qingyang Xi_, Brian McFee
@@ -46,8 +48,15 @@ __Beyond Hard Decisions: Accounting for Uncertainty in Deep MIR Models​__
 - Extended Abstracts for the Late-Breaking Demo Session
 - 22nd International Society for Music Information Retrieval (ISMIR) conference
 
-## Experience
-### Teaching Experience
+`2018`
+__Guitarset: A Dataset for Guitar Transcription__
+- _Qingyang Xi_, Rachel M. Bittner, Johan Pauwels, Xuzhou Ye, and Juan Pablo Bello
+- 19th International Society for Music Information Retrieval (ISMIR) conference
+
+<br>
+
+## Experiences
+### Teaching Experiences
 `2016-2017`
 __Adjunct Lecturer__, New York University, New York, NY
 - Developed new material and taught digital and analogue electronics for audio
@@ -56,7 +65,7 @@ __Adjunct Lecturer__, New York University, New York, NY
 __Teaching Assistant__, New York University, New York, NY
 - Helped teach digital and analogue electronics for audio
 
-### Industry Experience
+### Industry Experiences
 `2014-2015`
 __Software Developer__, SynthWorks, Brookline, MA
 - Developed Logic plugins and other solutions for live music performances.
@@ -65,12 +74,7 @@ __Software Developer__, SynthWorks, Brookline, MA
 __Assistant Music Editor__, Canxing Culture Broadcast Co., Shanghai, China
 - Worked on Season 2 of "The Voice of China"
 
-\
-&nbsp;
-\
-&nbsp;
-
-## Performance and Production
+## Performances and Productions
 ### Musical Theater
 `2015`
 Associate Music Programmer
@@ -97,7 +101,6 @@ Music Director
 `2011`
 Keyboardist
 - __Sweeney Todd__, Tsai Performance Center, Boston, MA
-<!-- <div style="page-break-after: always;"></div> -->
 
 ### Music Festival
 `2014`
@@ -109,23 +112,19 @@ Pianist
 - __Summit Music Festival__, Purchase, New York
 
 ## Service
-### Professional Service
+### Professional Services
 `2022`
 __Reviewer__, International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
 
 `2019`
 __Reviewer__, Transactions of the International Society for Music Information Retrieval (TISMIR)
 
-### University Service
-`2022-present`
+### University Services
+`2022-2024`
 __BeTogether Ambassador__, New York University
 - Promoting global inclusion, diversity, belonging, equity, and access
 
-`2018-2020`
-__MARL Talk Coordinator__, New York University
-- Coordinated invitation for guest speakers.
-
-## Invited Talk
+## Invited Talks
 `2018`
 __Boston University__, *Composer's Forum*, Department of Composition and Music Theory, Boston, MA
 
