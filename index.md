@@ -2,129 +2,83 @@
 layout: cv
 title: Tom Xi's CV
 ---
+
+<br>
+
 # Qingyang (Tom) Xi
-Musician, Technologist
+Machine Learning Researcher | Time-Series, Signal Processing
 
 <div id="webaddress">
     <a href="mailto: tom.xi@nyu.edu">tom.xi@nyu.edu</a><br/>
-    <a href="https://tomxi.weebly.com/">Website</a> |
     <a href="https://github.com/tomxi/">GitHub</a> |
     <a href="https://scholar.google.com/citations?user=uWxe6-AAAAAJ">Google Scholar</a> |
-    <a href="https://soundcloud.com/tom-xi">Soundcloud</a>
+    <a href="https://www.linkedin.com/in/qingyangxi/">LinkedIn</a>
 </div>
 
-## Research Interests
-I'm currently working on more explainable, automatic methods for audio based music structure analysis with Dr. Brian McFee, with broader interests in music informatics, music theory, and mathematics.
+## Profile
+Machine learning researcher with PhD training at NYU MARL, specializing in time-series modeling and segmentation, signal processing, representation learning, and evaluation for noisy temporal data. 
 
-## Education
-`2018-2026 (expected)`
-__New York University__, New York, NY
-- Ph.D. in *Music Technology*
+Built methods, datasets, and validation tools for temporal segmentation in audio ML, with experience spanning deep learning, uncertainty calibration, and ML research tooling in Python.  
 
-`2015-2018`
-__New York University__, New York, NY
-- M.M. in *Music Technology*
-
-`2010-2014`
-__Boston University__, Boston, MA
-- B.M. in *Piano Performance* and *Theory and Composition* with *Magna Cum Laude*
+Motivated to apply robust time-series ML and signal-processing methods to wearable sensing and health-focused products.
 
 ## Publications
-
-`2025`
+`ISMIR 2025`
 __Lose the Frames: Event-based Metrics for Efficient Music Structure Analysis Evaluations__
-- _Qingyang Xi_, Brian McFee
-- 26th International Society for Music Information Retrieval (ISMIR) conference
+- * _Qingyang Xi_, Brian McFee
+- Introduced event-based evaluation methods that improved efficiency, accuracy, and reproducibility for music structure analysis.
 
-`2024`
+`ISMIR (LBD) 2024`
 __Zero-Shot Structure Labeling with Audio and Language Model Embeddings__
-- Morgan Buisson, Christopher Ick, _Qingyang Xi_, Brian McFee
-- Extended Abstracts for the Late-Breaking Demo Session
-- 25th International Society for Music Information Retrieval (ISMIR) conference
+- * Morgan Buisson, Christopher Ick, _Qingyang Xi_, Brian McFee
+- Applied audio-language representation learning to zero-shot labeling for temporal segmentation.
 
-`2021`
+`ISMIR (LBD) 2021`
 __Beyond Hard Decisions: Accounting for Uncertainty in Deep MIR Models​__
-- _Qingyang Xi_, Brian McFee
-- Extended Abstracts for the Late-Breaking Demo Session
-- 22nd International Society for Music Information Retrieval (ISMIR) conference
+- * _Qingyang Xi_, Brian McFee
+- Studied probability calibration for uncertainty quantification in deep music information retrieval models.
 
-`2018`
+`ISMIR 2018`
 __Guitarset: A Dataset for Guitar Transcription__
-- _Qingyang Xi_, Rachel M. Bittner, Johan Pauwels, Xuzhou Ye, and Juan Pablo Bello
-- 19th International Society for Music Information Retrieval (ISMIR) conference
+- * _Qingyang Xi_, Rachel M. Bittner, Johan Pauwels, Xuzhou Ye, and Juan Pablo Bello
+- Designed, recorded, and annotated GuitarSet, a widely used dataset for guitar transcription.
+- Developed machine-assisted annotation and human-in-the-loop correction and validation workflows.
 
 <br>
 
 ## Experiences
-### Teaching Experiences
+`2017-Present`
+__Researcher__, Music and Audio Research Lab, NYU, New York, NY
+- Developed ML methods for structured prediction on temporal signals, including segmentation, representation learning, uncertainty modeling, and evaluation.
+- Built Python-based experimentation, benchmarking, and validation pipelines for large-scale comparison of models and annotations.
+- Developed efficient evaluation methods ([frameless_eval](https://github.com/tomxi/frameless-eval)) for temporal segmentation, improving reproducibility and reducing computational cost.
+- Led dataset design, annotation workflows, and human-in-the-loop validation for [GuitarSet](https://github.com/marl/guitarset), a widely used dataset for guitar transcription.
+- Contributed to open-source Python tools for audio and MIR research, including [librosa](https://librosa.org/), [mirdata](https://github.com/mir-dataset-loaders/mirdata), [mir_eval](https://github.com/mir-evaluation/mir_eval), and [JAMS](https://github.com/marl/jams).
+
 `2016-2017`
 __Adjunct Lecturer__, New York University, New York, NY
-- Developed new material and taught digital and analogue electronics for audio
+- Developed and taught course material in digital and analog electronics for audio engineers.
 
-`2015-2016`
-__Teaching Assistant__, New York University, New York, NY
-- Helped teach digital and analogue electronics for audio
-
-### Industry Experiences
 `2014-2015`
 __Software Developer__, SynthWorks, Brookline, MA
-- Developed Logic plugins and other solutions for live music performances.
+- Developed software tools and plugins for real-time audio workflows, translating user and production needs into maintainable software.
+- Built performance-sensitive solutions for live systems where timing, reliability, and usability were critical.
 
-`2013`
-__Assistant Music Editor__, Canxing Culture Broadcast Co., Shanghai, China
-- Worked on Season 2 of "The Voice of China"
+## Education
+`2018-2026`
+Ph.D., Music Technology, __New York University__
 
-## Performances and Productions
-### Musical Theater
-`2015`
-Associate Music Programmer
-- __Clinton the Musical__, New World Stages, New York, NY
+`2015-2018`
+M.M., Music Technology, __New York University__
 
-`2014`
-Music Director
-- __Godspell__, Emerson Umbrella, Concord, MA
+`2010-2014`
+B.M., Piano Performance and Theory/Composition, __Boston University__
 
-Observing Music Director
-- __Fiddler on the Roof__, Goodspeed Musicals, East Haddam, CT
-
-`2013`
-Music Director
-- __How to Succeed in Business without Really Trying__, Tsai Performance Center, Boston, MA
-
-Music Director
-- __Chicago__, Tsai Performance Center, Boston, MA
-
-`2012`
-Music Director
-- __The 25th Annual Putnam County Spelling Bee__, Jacob Sleeper’s Auditorium, Boston, MA
-
-`2011`
-Keyboardist
-- __Sweeney Todd__, Tsai Performance Center, Boston, MA
-
-### Music Festival
-`2014`
-Pianist
-- __Amalfi Coast Music Festival__, Amalfi, Italy
-
-`2013`
-Pianist
-- __Summit Music Festival__, Purchase, New York
+## Skills
+- Python, PyTorch, NumPy, pandas, SciPy, scikit-learn, Weights & Biases
+- Time-series modeling, signal processing, representation learning
+- Benchmarking, uncertainty calibration, dataset curation and annotation
+- Git, slurm/HPC, singularity/docker
 
 ## Service
-### Professional Services
-`2022`
-__Reviewer__, International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
-
-`2019`
-__Reviewer__, Transactions of the International Society for Music Information Retrieval (TISMIR)
-
-### University Services
-`2022-2024`
-__BeTogether Ambassador__, New York University
-- Promoting global inclusion, diversity, belonging, equity, and access
-
-## Invited Talks
-`2018`
-__Boston University__, *Composer's Forum*, Department of Composition and Music Theory, Boston, MA
-
+- __Reviewer__ for *TASLP*, *ICASSP*, *ISMIR*, and *TISMIR*.
