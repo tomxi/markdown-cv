@@ -127,14 +127,14 @@ __New York University__, New York, NY
 
 `2016-2017`
 - Instructor
-  - MPATE-UE 1817, Analog Electronics, Fall 2016, Spring 2017. *Required*.
-  - MPATE-UE 1818, Digital Electronics, Fall 2016, Spring 2017. *Required*.
-  - MPATE-GE 2615, Electronics by Computer Simulation, Spring 2017. *Elective*.
+  - MPATE-UE 1817, Analog Electronics, Fall 2016, Spring 2017.
+  - MPATE-UE 1818, Digital Electronics, Fall 2016, Spring 2017.
+  - MPATE-GE 2615, Electronics by Computer Simulation, Spring 2017.
 
 `2016`
 - Teaching Assistant
-  - MPATE-UE 1817, Analog Electronics, Spring 2016. *Required*.
-  - MPATE-UE 1818, Digital Electronics, Spring 2016. *Required*.
+  - MPATE-UE 1817, Analog Electronics, Spring 2016.
+  - MPATE-UE 1818, Digital Electronics, Spring 2016.
 
 ## Invited Seminar
 `2018`
