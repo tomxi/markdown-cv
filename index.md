@@ -20,27 +20,31 @@ Music Informatics; Machine Learning; Signal Processing; Interactive Performance;
 __New York University__, New York, NY
 
 `2018-2026`
-- Ph.D. in *Music Technology*
+- Ph.D. in Music Technology
   - Advisor: Prof. Brian McFee
   - Dissertation: *A Framework for Integrating Perspectives in Audio-Based Music Structure Analysis*
 
 `2015-2018`
-- M.M. in *Music Technology*
+- M.M. in Music Technology
   - Advisor: Prof. Juan Pablo Bello
   - Thesis: *GuitarSet: A Dataset for Guitar Transcription*
 
 `2010-2014`
 __Boston University__, Boston, MA
-- B.M. in *Piano Performance* and *Theory and Composition*
-  - Honors: *Magna Cum Laude*
+- B.M. in Piano Performance and Theory and Composition
+  - Honors: Magna Cum Laude
 
 ## Employment
 ### Academic Employment
-`2016-2017`
 __New York University__, New York, NY
+
+`2016-2017`
 - Adjunct Lecturer, Music Technology
 
-### Non-academic Employment
+`2016`
+- Teaching Assistant, Music Technology
+
+### Industry Employment
 `2014-2020`
 __Little Ondine Co.__, Boston, MA
 - Managing Director, Cosmetics Import and Distribution
@@ -65,6 +69,8 @@ in *Proc. 26th International Society for Music Information Retrieval Conference 
 "GuitarSet: A Dataset for Guitar Transcription,"
 in *Proc. 19th International Society for Music Information Retrieval Conference (ISMIR)*, Paris, France, 2018.
 
+<div style="page-break-after: always;"></div>
+
 ### Extended Abstract
 `2024`
 - M. Buisson, C. Ick, **Q. Xi**, and B. McFee. 
@@ -79,47 +85,47 @@ in *International Society for Music Information Retrieval Late-Breaking Demos (I
 ## Performance and Production
 ### Musical Theater
 `2015`
-__New World Stages__, New York, NY
-- *Clinton the Musical*, Associate Music Programmer.
+- __New World Stages__, New York, NY
+  - *Clinton the Musical*, Associate Music Programmer.
 
 `2015`
-__Dragone__, Yunnan, China
-- *The Dai Show*, Associate Electronic Music Programmer.
+- __Dragone__, Yunnan, China
+  - *The Dai Show*, Associate Electronic Music Programmer.
 
 `2014`
-__Goodspeed Musicals__, East Haddam, CT
-- *Fiddler on the Roof*, Observing Music Director.
+- __Goodspeed Musicals__, East Haddam, CT
+  - *Fiddler on the Roof*, Observing Music Director.
 
 `2014`
-__Emerson Umbrella__, Concord, MA
-- *Godspell*, Music Director.
+- __Emerson Umbrella__, Concord, MA
+  - *Godspell*, Music Director.
 
 `2010-2014`
-__Boston University On Broadway__, Boston, MA
-- *How to Succeed in Business without Really Trying*, Music Director.
-- *Chicago*, Music Director.
-- *Sweeney Todd*, Keyboardist.
-- *The 25th Annual Putnam County Spelling Bee*, Music Director.
-- *[Title of Show]*, Music Director.
+- __Boston University On Broadway__, Boston, MA
+  - *How to Succeed in Business without Really Trying*, Music Director.
+  - *Chicago*, Music Director.
+  - *Sweeney Todd*, Keyboardist.
+  - *The 25th Annual Putnam County Spelling Bee*, Music Director.
+  - *[Title of Show]*, Music Director.
 
 `2010`
-__Boston University Stage Troupe__, Boston, MA
-- *The Last Five Years*, Assistant Music Director, Keyboardist.
+- __Boston University Stage Troupe__, Boston, MA
+  - *The Last Five Years*, Assistant Music Director, Keyboardist.
 
 <!-- <div style="page-break-after: always;"></div> -->
 
 ### Music Festival
 `2014`
-__Amalfi Coast Music Festival__, Amalfi, Italy
-- Pianist
+- __Amalfi Coast Music Festival__, Amalfi, Italy
+  - Pianist
 
 `2013`
-__Summit Music Festival__, Purchase, New York
-- Pianist
+- __Summit Music Festival__, Purchase, NY
+  - Pianist
 
 `2008`
-__Boston University Tanglewood Institute__, Lenox, MA
-- Pianist
+- __Boston University Tanglewood Institute__, Lenox, MA
+  - Pianist
 
 ## Teaching Experience
 
@@ -138,22 +144,22 @@ __New York University__, New York, NY
 
 ## Invited Seminar
 `2018`
-__Boston University__ *Composer's Forum*, Boston, MA
-- "Playing with Audio Feedback and Crosstalk as Creative Devices in Musical Composition"
+- __Boston University__ *Composer's Forum*, Boston, MA
+  - "Audio Feedback and Crosstalk as Creative Devices in Musical Composition"
 
 ## Service
 ### Professional Service
 `2026`
-- __Reviewer__, International Society for Music Information Retrieval (ISMIR)
+__Reviewer__, International Society for Music Information Retrieval (ISMIR)
 
 `2026`
-- __Reviewer__, Transactions on Audio, Speech and Language Processing (TASLP)
+__Reviewer__, Transactions on Audio, Speech and Language Processing (TASLP)
 
 `2022`
-- __Reviewer__, International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+__Reviewer__, International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
 
 `2019`
-- __Reviewer__, Transactions of the International Society for Music Information Retrieval (TISMIR)
+__Reviewer__, Transactions of the International Society for Music Information Retrieval (TISMIR)
 
 ### University Service
 `2022-2024`
