@@ -39,10 +39,10 @@ __Boston University__, Boston, MA
 __New York University__, New York, NY
 
 `2016-2017`
-- Adjunct Lecturer, Music Technology
+Adjunct Lecturer, Music Technology
 
 `2016`
-- Teaching Assistant, Music Technology
+Teaching Assistant, Music Technology
 
 ### Industry Employment
 `2014-2020`
