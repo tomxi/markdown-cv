@@ -86,31 +86,31 @@ in *International Society for Music Information Retrieval Late-Breaking Demos (I
 ### Musical Theater
 `2015`
 - __New World Stages__, New York, NY
-  - *Clinton the Musical*, Associate Music Programmer.
+  - *Clinton the Musical*, Associate Music Programmer
 
 `2015`
 - __Dragone__, Yunnan, China
-  - *The Dai Show*, Associate Electronic Music Programmer.
+  - *The Dai Show*, Associate Electronic Music Programmer
 
 `2014`
 - __Goodspeed Musicals__, East Haddam, CT
-  - *Fiddler on the Roof*, Observing Music Director.
+  - *Fiddler on the Roof*, Observing Music Director
 
 `2014`
 - __Emerson Umbrella__, Concord, MA
-  - *Godspell*, Music Director.
+  - *Godspell*, Music Director
 
 `2010-2014`
 - __Boston University On Broadway__, Boston, MA
-  - *How to Succeed in Business without Really Trying*, Music Director.
-  - *Chicago*, Music Director.
-  - *Sweeney Todd*, Keyboardist.
-  - *The 25th Annual Putnam County Spelling Bee*, Music Director.
-  - *[Title of Show]*, Music Director.
+  - *How to Succeed in Business without Really Trying*, Music Director
+  - *Chicago*, Music Director
+  - *Sweeney Todd*, Keyboardist
+  - *The 25th Annual Putnam County Spelling Bee*, Music Director
+  - *[Title of Show]*, Music Director
 
 `2010`
 - __Boston University Stage Troupe__, Boston, MA
-  - *The Last Five Years*, Assistant Music Director, Keyboardist.
+  - *The Last Five Years*, Assistant Music Director, Keyboardist
 
 <!-- <div style="page-break-after: always;"></div> -->
 
@@ -133,19 +133,19 @@ __New York University__, New York, NY
 
 `2016-2017`
 - Instructor
-  - MPATE-UE 1817, Analog Electronics, Fall 2016, Spring 2017.
-  - MPATE-UE 1818, Digital Electronics, Fall 2016, Spring 2017.
-  - MPATE-GE 2615, Electronics by Computer Simulation, Spring 2017.
+  - MPATE-UE 1817, Analog Electronics, Fall 2016, Spring 2017
+  - MPATE-UE 1818, Digital Electronics, Fall 2016, Spring 2017
+  - MPATE-GE 2615, Electronics by Computer Simulation, Spring 2017
 
 `2016`
 - Teaching Assistant
-  - MPATE-UE 1817, Analog Electronics, Spring 2016.
-  - MPATE-UE 1818, Digital Electronics, Spring 2016.
+  - MPATE-UE 1817, Analog Electronics, Spring 2016
+  - MPATE-UE 1818, Digital Electronics, Spring 2016
 
 ## Invited Seminar
 `2018`
-- __Boston University__ *Composer's Forum*, Boston, MA
-  - "Audio Feedback and Crosstalk as Creative Devices in Musical Composition"
+__Boston University__ *Composer's Forum*, Boston, MA
+- "Audio Feedback and Crosstalk as Creative Devices in Musical Composition"
 
 ## Service
 ### Professional Service
@@ -168,4 +168,4 @@ __BeTogether Ambassador__, New York University
 
 `2018-2020`
 __MARL Talk Coordinator__, New York University
-- Coordinated invitation for guest speakers.
+- Coordination and invitation for guest speakers
